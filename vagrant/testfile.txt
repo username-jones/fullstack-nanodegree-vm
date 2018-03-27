@@ -1,0 +1,1 @@
+A simple test file to share between my machine and the vagrant machine.
